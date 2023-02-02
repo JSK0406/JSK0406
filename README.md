@@ -1,6 +1,6 @@
 ### JiSeong
 
-[![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSK0406&show_icons=true&theme=darka&count_private=true)]
+![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSK0406&show_icons=true&theme=darka&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingyi2006)](https://solved.ac/mingyi2006/)
 
 <!--
