@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=JiSeong%20Kim&fontSize=50)
-
 ![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSK0406&show_icons=true&theme=darka&count_private=true)
 
 ---
