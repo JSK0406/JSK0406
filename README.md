@@ -5,7 +5,7 @@
 ---
 
 ### 🖥️ Projects
-- [디 올 뉴 싼타페 이벤트 프로젝트](https://github.com/softeerbootcamp4th/Team1-Strawberry-FE) / FE / (2024.07. ~ 2024.08.)
+- [소프티어 부트캠프 신차 출시 이벤트 프로젝트](https://github.com/softeerbootcamp4th/Team1-Strawberry-FE) / FE / (2024.07. ~ 2024.08.)
 - [인하대학교 IBAS 동아리 홈페이지 프로젝트](https://github.com/InhaBas/inhabas.com-front) / FE / (2024.03 ~ 2024.06)]
 - [QR코드 자료 공유 플랫폼 프로젝트](https://github.com/poow810/File_Management) / FE / (2023.10 ~ 2023.11)
 - [개인화 식물 재배 플랫폼 프로젝트](https://github.com/cnxw4570123/KEBSmartFarm) / FE, AI / (2023.07 ~ 2023.08)
